@@ -1,11 +1,16 @@
 # Wisal Chat App
-Wisal Chat App is a real-time WebSocket-based chat application built with Vue.js. The app simulates three different clients, each with a unique color theme, and showcases real-time messaging capabilities. It's designed to be sleek, modern, and highly interactive!
-https://github.com/user-attachments/assets/1b497f9f-ec11-4ac7-8c79-d195f3ca860b
+Wisal Chat App is a real-time WebSocket-based chat application built with Vue.js. The app simulates three clients with a unique color theme and showcases real-time messaging capabilities. It's designed to be sleek, modern, and highly interactive!
+
+
+Uploading socket.mp4…
+
+
+
 
 ## 🌟 Features
 - **Real-Time Messaging**: Messages are updated in real-time across all client windows using WebSockets.
 - **Multiple Clients**: Three separate chat windows for different clients, each with a distinct color theme for easy differentiation.
-- **Smooth Animations**: Hover effects and transitions for a polished, professional look.
+- **Smooth Animations**: Hover effects and transitions for a professional look.
 - **Responsive Design**: Optimized for different screen sizes to ensure a seamless user experience.
 
 ## 🚀 Tech Stack
